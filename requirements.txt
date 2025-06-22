@@ -1,0 +1,7 @@
+groq
+vosk
+requests
+pyaudio
+pynput
+python-dotenv
+PyMuPDF
